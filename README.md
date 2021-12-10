@@ -1,5 +1,5 @@
 ![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQHm1dGoRVKpgA/profile-displaybackgroundimage-shrink_200_800/0/1639112191196?e=1644451200&v=beta&t=QgGGZ997XjQZNbVQy1L89cGVUIHEd7VvBCXZ0LGEObU)
-### Hi there 👋, I'm Remon Rifat
+### Hi 👋, I'm Remon Rifat
 #### Web Developer
 
 
