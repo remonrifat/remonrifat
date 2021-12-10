@@ -1,6 +1,7 @@
+![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQHm1dGoRVKpgA/profile-displaybackgroundimage-shrink_200_800/0/1639112191196?e=1644451200&v=beta&t=QgGGZ997XjQZNbVQy1L89cGVUIHEd7VvBCXZ0LGEObU)
 ### Hi there 👋, I'm Rimon Rifat
 #### Web Developer
-![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQHm1dGoRVKpgA/profile-displaybackgroundimage-shrink_200_800/0/1639112191196?e=1644451200&v=beta&t=QgGGZ997XjQZNbVQy1L89cGVUIHEd7VvBCXZ0LGEObU)
+
 
 I am a junior web developer. I have completed many projects with JavaScipt, React, Node, MongoDB, etc. I am expert in React, React Native, JavaScript, HTML5, CSS, SCSS, Bootstrap, React Bootstrap, Material UI, MongoDB, NodeJS, VSCode.
 
