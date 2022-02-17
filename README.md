@@ -1,4 +1,4 @@
-![Web Developer](https://drive.google.com/file/d/1_XRGI6FPximrZ82KUUgJ3QnNm225SP-p/view?usp=sharing);
+![Web Developer](https://drive.google.com/file/d/1_XRGI6FPximrZ82KUUgJ3QnNm225SP-p/view?usp=sharing)
 ### Hi 👋, I'm Remon Rifat
 #### Web Developer
 
