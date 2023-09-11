@@ -1,4 +1,3 @@
-(https://drive.google.com/file/d/1z9XJXH7zFKzFxY83uQdUlxxOExUtnk4K/view?usp=sharing)
 ### Hi 👋, I'm Remon Rifat
 #### Web Developer
 
@@ -9,7 +8,7 @@ Skills:  REACT / JS / HTML / CSS / BOOTSTRAP / REACT BOOTSTRAP / TAILWIND/ MATER
 
 - 🌱 I’m currently learning JAVASCRIPT ,PYTHON, PHP 
 - 👯 I’m looking to collaborate on GITHUB 
-- 💬 Ask me about WEB DEVELOPER 
+- 💬 Ask me about Web Develpement
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/remonrifat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rimon-rifat-0495b61b1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/siamahmed.rimon.7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rimon_sadir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://remonrifat.netlify.app/)  
