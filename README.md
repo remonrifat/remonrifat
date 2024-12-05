@@ -2,9 +2,10 @@
 #### Web Developer
 
 
-I am a junior web developer. I have completed many projects with JavaScipt, React, Node, MongoDB, etc. I am expert in React, React Native, JavaScript, HTML5, CSS, SCSS, Bootstrap, React Bootstrap, Material UI, MongoDB, NodeJS, VSCode.
+A passionate Junior Web Developer with hands-on experience in modern web technologies. I've successfully completed numerous projects utilizing JavaScript, React, Node.js, MongoDB, and more. My expertise includes creating responsive and dynamic applications using tools and frameworks such as React, React Native, HTML5, CSS, SCSS, Bootstrap, Tailwind CSS, Material UI, and React Bootstrap. I am also proficient in backend development with Node.js and MongoDB, ensuring seamless integration and functionality.
 
-Skills:  REACT / JS / HTML / CSS / BOOTSTRAP / REACT BOOTSTRAP / TAILWIND/ MATERIAL UI/ MONGODB/ NODEJS
+Core Skills:
+React | React Native | JavaScript | HTML5 | CSS3 | SCSS | Bootstrap | React Bootstrap | Tailwind CSS | Material UI | Node.js | MongoDB | VSCode
 
 - 🌱 I’m currently learning JAVASCRIPT ,PYTHON, PHP 
 - 👯 I’m looking to collaborate on GITHUB 
